@@ -1,0 +1,16 @@
+.button a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 30px;
+	background-color: #07b569;
+	display: inline-block;
+	padding: 8px 31px;
+}
+
+.button a:hover {
+	background-color: #03a15c;
+	transform: scale(1.2);
+	transition-duration: 1s;
+}
